@@ -23,6 +23,5 @@ public class Main
         System.out.println("My full name is: " + fullName);
 
 
-
     }
 }
